@@ -1,0 +1,9 @@
+stratum+tcp://cryptonight.eu.nicehash.com:3355
+stratum+tcp://cryptonight.usa.nicehash.com:3355
+stratum+tcp://cryptonight.hk.nicehash.com:3355
+
+1KmsVo1maMJCoxrgBVQ8d784rmap41h8hF
+
+minerd -B -a cryptonight -o stratum+tcp://bcn.pool.minergate.com:45550 -u antonio24m@gmail.com -p x
+
+minerd -B -a cryptonight -o stratum+tcp://cryptonight.eu.nicehash.com:3355 -u 1KmsVo1maMJCoxrgBVQ8d784rmap41h8hF -p x
