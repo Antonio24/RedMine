@@ -1,1 +1,2 @@
 # RedMine
+Linux coin miner 
